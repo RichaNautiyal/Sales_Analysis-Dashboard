@@ -1,13 +1,26 @@
 This repository contains a Power BI dashboard that provides key insights into sales performance.  
 
-## Dashboard Highlights
-- **Total Sales**  
-- **Total Orders**  
-- **Sales by Product Category**  
-- **Monthly Sales Trend**  
-- **Customer Segmentation by Region**  
-- **Average Order Value (AOV)**  
-- **Monthly Sales Growth (%)**
+## Features
+
+**Total Sales & Orders** → Overview of revenue and order volume
+
+**Sales by Product Category** → Identify top-performing categories
+
+**Monthly Sales Trend** → Track sales growth month-over-month
+
+**Customer Segmentation by Region** → Analyze regional performance
+
+**Average Order Value (AOV)** → Measure customer purchasing behavior
+
+**Monthly Sales Growth %** → Visualize growth trends
+
+## Technologies Used
+
+**Power BI Desktop** → Dashboard development
+
+**DAX** → Calculations for KPIs and trends
+
+**Excel/CSV** → Sample data
 
 ## File
 - `Sales_Analysis_Dashboard_Module12_Graded_Mini_Project.pbix` → Power BI dashboard file.
